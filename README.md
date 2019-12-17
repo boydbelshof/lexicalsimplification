@@ -1,6 +1,6 @@
 # Thesis Information Science: Dutch Lexical Simplification
 
-Python2.7 program for simplifying Dutch sentences on lexical level. This program was part of a research of adding features to existing lexical simplification systems. 
+Python2.7 program for simplifying Dutch sentences on lexical level. This program was part of a research for the University of Groningen in adding features to an existing lexical simplification system. 
 
 
 ## Data Files
