@@ -1,8 +1,7 @@
-#!/usr/bin/python3
-#File: number_to_words.py
-#By: Boyd Belshof, S3012158, Groep IK3
-#This program takes an a number and translates it into natural language.
-#Date: 24-11-15
+#!/usr/bin/python
+#File: lexical_simplification.py
+#By: Boyd Belshof, S3012158
+#Date: 17-12-19
 
 import pickle, pyphen, operator, openpyxl
 import pandas as pd
